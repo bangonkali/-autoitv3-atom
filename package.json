@@ -1,7 +1,7 @@
 {
   "name": "language-autoit",
-  "version": "0.1.0",
-  "description": "A short description of your package",
+  "version": "0.1.1",
+  "description": "A converted Textmate bundle for AutoIt version 3 scripts. This now works with Atom. For more information visit: https://github.com/Red-Nova-Technologies/autoitv3-tmbundle",
   "repository": "https://github.com/bangonkali/-autoitv3-atom",
   "license": "MIT",
   "engines": {
