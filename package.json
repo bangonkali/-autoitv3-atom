@@ -1,8 +1,8 @@
 {
   "name": "language-autoit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
-  "repository": "https://github.com/atom/language-autoit",
+  "repository": "https://github.com/bangonkali/-autoitv3-atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
