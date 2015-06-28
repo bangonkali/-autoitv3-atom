@@ -3,7 +3,7 @@
 ]
 'foldingStartMarker': '/\\*\\*|\\{\\s*$'
 'foldingStopMarker': '\\*\\*/|^\\s*\\}'
-'name': 'AutoItv3'
+'name': 'AutoIt v3'
 'patterns': [
   {
     'match': '(?i:\\s*((\\${1})\\w*))(\\.\\w+)?'
